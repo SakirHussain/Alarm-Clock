@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at timegen.v(10): always construct contains both blocking and non-blocking assignments File: D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/timegen.v Line: 10
+Warning (10268): Verilog HDL information at timegen.v(29): always construct contains both blocking and non-blocking assignments File: D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/timegen.v Line: 29

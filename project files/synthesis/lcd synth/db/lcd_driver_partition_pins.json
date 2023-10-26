@@ -1,0 +1,81 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "display_time[0]",
+					"strict" : false
+				},
+				{
+					"name" : "display_time[1]",
+					"strict" : false
+				},
+				{
+					"name" : "display_time[2]",
+					"strict" : false
+				},
+				{
+					"name" : "display_time[3]",
+					"strict" : false
+				},
+				{
+					"name" : "show_alarm",
+					"strict" : false
+				},
+				{
+					"name" : "show_new_time",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time[0]",
+					"strict" : false
+				},
+				{
+					"name" : "current_time[0]",
+					"strict" : false
+				},
+				{
+					"name" : "key[0]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time[3]",
+					"strict" : false
+				},
+				{
+					"name" : "current_time[3]",
+					"strict" : false
+				},
+				{
+					"name" : "key[3]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time[1]",
+					"strict" : false
+				},
+				{
+					"name" : "current_time[1]",
+					"strict" : false
+				},
+				{
+					"name" : "key[1]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time[2]",
+					"strict" : false
+				},
+				{
+					"name" : "current_time[2]",
+					"strict" : false
+				},
+				{
+					"name" : "key[2]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,149 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "alarm_time_ms_hr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time_ms_hr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time_ms_hr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time_ms_hr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time_ls_hr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time_ls_hr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time_ls_hr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time_ls_hr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time_ms_min[0]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time_ms_min[1]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time_ms_min[2]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time_ms_min[3]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time_ls_min[0]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time_ls_min[1]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time_ls_min[2]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_time_ls_min[3]",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ms_hr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "load_new_alarm",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ms_hr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ms_hr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ms_hr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ls_hr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ls_hr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ls_hr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ls_hr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ms_min[0]",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ms_min[1]",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ms_min[2]",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ms_min[3]",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ls_min[0]",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ls_min[1]",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ls_min[2]",
+					"strict" : false
+				},
+				{
+					"name" : "new_alarm_ls_min[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

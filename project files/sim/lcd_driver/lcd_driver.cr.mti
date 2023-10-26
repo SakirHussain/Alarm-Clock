@@ -1,0 +1,22 @@
+{D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/sim/lcd_driver/tb_lcd_driver_4.v} {1 {vlog -work work -stats=none {D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/sim/lcd_driver/tb_lcd_driver_4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_lcd_driver_4
+
+Top level modules:
+	tb_lcd_driver_4
+
+} {} {}} {D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/lcd_driver.v} {1 {vlog -work work -stats=none {D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/lcd_driver.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lcd_driver
+
+Top level modules:
+	lcd_driver
+
+} {} {}} {D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/lcd_driver_4.v} {1 {vlog -work work -stats=none {D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/lcd_driver_4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lcd_driver_4
+
+Top level modules:
+	lcd_driver_4
+
+} {} {}}

@@ -1,0 +1,113 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ms_hour[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ms_hour[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ms_hour[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ms_hour[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ls_hour[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ls_hour[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ls_hour[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ls_hour[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ms_minute[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ms_minute[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ms_minute[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ms_minute[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ls_minute[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ls_minute[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ls_minute[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ls_minute[3]",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_sound",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "alarm_button",
+					"strict" : false
+				},
+				{
+					"name" : "key[0]",
+					"strict" : false
+				},
+				{
+					"name" : "key[1]",
+					"strict" : false
+				},
+				{
+					"name" : "key[2]",
+					"strict" : false
+				},
+				{
+					"name" : "key[3]",
+					"strict" : false
+				},
+				{
+					"name" : "time_button",
+					"strict" : false
+				},
+				{
+					"name" : "fastwatch",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

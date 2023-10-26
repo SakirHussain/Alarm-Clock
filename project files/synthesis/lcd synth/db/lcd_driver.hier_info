@@ -1,0 +1,30 @@
+|lcd_driver
+alarm_time[0] => display_value[0].DATAB
+alarm_time[1] => display_value[1].DATAB
+alarm_time[2] => display_value[2].DATAB
+alarm_time[3] => display_value[3].DATAB
+current_time[0] => display_value[0].DATAB
+current_time[1] => display_value[1].DATAB
+current_time[2] => display_value[2].DATAB
+current_time[3] => display_value[3].DATAB
+show_alarm => always0.IN0
+show_alarm => always0.IN0
+show_alarm => always0.IN0
+show_new_time => always0.IN1
+show_new_time => always0.IN1
+show_new_time => always0.IN1
+key[0] => display_value[0].DATAA
+key[1] => display_value[1].DATAA
+key[2] => display_value[2].DATAA
+key[3] => display_value[3].DATAA
+display_time[0] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+display_time[1] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+display_time[2] <= Decoder0.DB_MAX_OUTPUT_PORT_TYPE
+display_time[3] <= display_value[3].DB_MAX_OUTPUT_PORT_TYPE
+display_time[4] <= <VCC>
+display_time[5] <= <VCC>
+display_time[6] <= <GND>
+display_time[7] <= <GND>
+sound_alarm <= <VCC>
+
+

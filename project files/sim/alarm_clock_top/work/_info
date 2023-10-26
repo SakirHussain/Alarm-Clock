@@ -1,0 +1,218 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/college/Maven Silicon/Alarm Pilot Project/Project_templates/sim/alarm_reg
+valarm_clock_top
+Z0 !s110 1695549969
+!i10b 1
+!s100 8S[<cXeR5LI9jKoRO8L1=2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ia07>a8_O7:@[OOFL7aHR90
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/college/Maven Silicon/Alarm Pilot Project/Project_templates/sim/alarm_clock_top
+w1695549941
+8D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/alarm_clock_top.v
+FD:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/alarm_clock_top.v
+!i122 34
+L0 29 135
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1695549969.000000
+!s107 D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/alarm_clock_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/alarm_clock_top.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+valarm_reg
+R0
+!i10b 1
+!s100 @T3dnM5BOOeFH8GPi_MiE0
+R1
+IA_0G44@6Pn^D]?V>kWD:N0
+R2
+R3
+w1695531708
+8D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/alarm_reg.v
+FD:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/alarm_reg.v
+!i122 35
+L0 1 47
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/alarm_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/alarm_reg.v|
+!i113 1
+R6
+R7
+vcounter
+Z8 !s110 1695549970
+!i10b 1
+!s100 Q`k>MnoCNk:Q9]FoJGcj>2
+R1
+IfKYj<jazIfX=4cg6e_C`32
+R2
+R3
+w1695546863
+8D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/counter.v
+FD:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/counter.v
+!i122 36
+L0 1 69
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/counter.v|
+!i113 1
+R6
+R7
+vfsm
+R8
+!i10b 1
+!s100 M^B`d5`:CLzZ<ffZb_K2k0
+R1
+ImgL7LiVC5^LWCVV^54SzU3
+R2
+R3
+w1695549842
+8D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/fsm.v
+FD:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/fsm.v
+!i122 37
+L0 2 177
+R4
+r1
+!s85 0
+31
+Z9 !s108 1695549970.000000
+!s107 D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/fsm.v|
+!i113 1
+R6
+R7
+vkeyreg
+R8
+!i10b 1
+!s100 z8OhO:C7MkEnzzE<?GjR@2
+R1
+IK=hk3IdZPmb@4R25BfX6X0
+R2
+R3
+w1695548300
+8D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/keyreg.v
+FD:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/keyreg.v
+!i122 38
+L0 1 44
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/keyreg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/keyreg.v|
+!i113 1
+R6
+R7
+vlcd_driver
+R8
+!i10b 1
+!s100 YPCQCZF4<dT=ZFklGJc9L1
+R1
+I>XBZk4nT=NU38PP`76GmV0
+R2
+R3
+w1695225622
+8D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/lcd_driver.v
+FD:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/lcd_driver.v
+!i122 39
+L0 2 76
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/lcd_driver.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/lcd_driver.v|
+!i113 1
+R6
+R7
+vlcd_driver_4
+R8
+!i10b 1
+!s100 d[OMYJXf6=gVCn?n5`bI:0
+R1
+Ib:B:>9mgIgZzVDk?4i1g>0
+R2
+R3
+w1695219535
+8D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/lcd_driver_4.v
+FD:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/lcd_driver_4.v
+!i122 40
+L0 2 91
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/lcd_driver_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/lcd_driver_4.v|
+!i113 1
+R6
+R7
+vtb_alarm_clock
+R8
+!i10b 1
+!s100 V6WRWF2cfD2AcV>MMMPH12
+R1
+I215[3V35`ECchL?>P:c=K1
+R2
+R3
+w1524785018
+8D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/tb/tb_alarm_clock.v
+FD:/college/Maven Silicon/Alarm Pilot Project/Project_templates/tb/tb_alarm_clock.v
+!i122 42
+L0 29 112
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/tb/tb_alarm_clock.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/tb/tb_alarm_clock.v|
+!i113 1
+R6
+R7
+vtimegen
+R8
+!i10b 1
+!s100 H9fDlE6N3_T;3V@DFJzEb0
+R1
+IY]0aboR;FHehT`OoQ=23G0
+R2
+R3
+w1695549965
+8D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/timegen.v
+FD:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/timegen.v
+!i122 41
+L0 1 55
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/timegen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/college/Maven Silicon/Alarm Pilot Project/Project_templates/rtl/timegen.v|
+!i113 1
+R6
+R7
